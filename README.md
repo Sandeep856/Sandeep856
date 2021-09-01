@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandeep856
-- 👀 I’m presently undertaking Computer Science degree at BITS Pilani Goa Campus
+-   I’m presently undertaking Computer Science degree at BITS Pilani Goa Campus
 - 🌱 I’m currently learning dart language and have keen interest in flutter
 - 💞️ I’m looking to collaborate on new ideas and work with other developers
 - 📫 How to reach me :
